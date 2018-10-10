@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/tinh luong thuong/cmake-build-debug/CMakeFiles/tinh_luong_thuong.dir
+C:/Users/Admin/Desktop/tinh luong thuong/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/tinh luong thuong/cmake-build-debug/CMakeFiles/rebuild_cache.dir
