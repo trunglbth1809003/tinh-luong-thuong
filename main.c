@@ -25,6 +25,7 @@ int main() {
     (sonamconghien == b);
     printf("nhap so nam cong hien: \n");
     scanf("%d", &b);
+    getchar();
     switch (choice) {
         case 1:
             (b <= 1);
